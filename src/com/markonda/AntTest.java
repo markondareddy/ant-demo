@@ -25,6 +25,11 @@ public class AntTest {
 		System.out.println("today I updated");
 		
 		System.out.println("today I updated...........................");
+		
+		
+		System.out.println("welcome to jenkins");
+		
+		System.out.println("added new things");
 
 	}
 
